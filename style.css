@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2? family= Karma:wght@300 & display=swap');
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: #f0ffff;
+    font-family: 'Karma', serif;
+}
+.wq{
+    padding: 4px;
+}
+p{
+    padding: 5px;
+    margin: 2px;
+}
+.sectionimg1{
+    display: flex;
+    justify-content: space-between;
+}
+.img1{
+    height: 190px;
+    width: 25%;
+    padding: 10px;
+    border: 5px;
+}
+.img2{
+    width: 25%;
+    height: 200px;
+    padding: 10px;
+    border: 5px;
+}
+.div-img{
+    font-size: 7px;
+}
+.sectionfather{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-listas{
+    width: 300px;
+    height: 100%;
+    list-style-type: none;
+}
+.sectionstart{
+    width: 1000px;
+    height: 100%;
+}
+h3{
+    font-size: 17px;
+}
